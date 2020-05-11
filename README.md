@@ -13,7 +13,8 @@
 ### Lista de tarefas:
 - [X] Aprender Java.
 - [ ] Estudar mais coisa sobre linguagem de marcação.
-### Adicionando Imagem
+### Adicionando Links ao meu Git:
+Além de programar adoro fazer música! Veja meu vídeo clicando [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
 
 
 
