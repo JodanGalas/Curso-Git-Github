@@ -19,6 +19,11 @@ Escute minha música clicando aqui [aqui](https://www.youtube.com/watch?v=F-8W5e
 Nome | Idade | Altura
 ---|---|---
 Jodan | 19 | 1.83
+### Adicionando partes de `cod`:
+```
+print("Olá, Mundo")
+```
+
 
 
 
