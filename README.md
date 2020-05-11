@@ -14,7 +14,7 @@
 - [X] Aprender Java.
 - [ ] Estudar mais coisa sobre linguagem de marcação.
 ### Adicionando Links ao meu Git:
-Além de programar adoro fazer música! Veja meu vídeo clicando [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
+Além de programar adoro fazer música! Veja o meu novo som clicando [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
 
 
 
