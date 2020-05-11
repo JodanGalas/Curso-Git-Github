@@ -11,8 +11,8 @@
 * testando 02
    *testando 03
 ### Lista de tarefas:
-- [] Aprender Java
-- [] Estudar mais coisa sobre linguagem de marcação
+- [ ] Aprender Java
+- [ ] Estudar mais coisa sobre linguagem de marcação
 
 
 
