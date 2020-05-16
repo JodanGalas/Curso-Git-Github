@@ -14,7 +14,7 @@
 - [X] Aprender Java.
 - [ ] Estudar mais coisa sobre linguagem de marcação.
 ### Adicionando Links:
-Escute minha música clicando aqui [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
+Escute minha música clicando [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
 ### Adicioando tabelas:
 Nome | Idade | Altura
 ---|---|---
