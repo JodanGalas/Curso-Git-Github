@@ -11,8 +11,9 @@
 * testando 02
    *testando 03
 ### Lista de tarefas:
-- [X] Aprender Java.
+- [ ] Aprender Java.
 - [ ] Estudar mais coisa sobre linguagem de marcação.
+- [ ] Focar mais nos estudos.
 ### Adicionando Links:
 Escute minha música clicando [aqui](https://www.youtube.com/watch?v=F-8W5e71p0o). Espero que goste!
 ### Adicioando tabelas:
