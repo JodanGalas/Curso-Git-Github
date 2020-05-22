@@ -1,5 +1,6 @@
 # Curso-Git-Github
 ## Repositório destinado ao curso de Git e Github do Gustavo Guanabara.
+![](https://github.com/JodanGalas/Curso-Git-Github/blob/master/Imagens/logo.png)
 ***
 ### Lista numerada:
 1. Mudança feita no editor de texto remoto.
