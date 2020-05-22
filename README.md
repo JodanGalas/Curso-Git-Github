@@ -1,5 +1,6 @@
 # Curso-Git-Github
 ## Repositório destinado ao curso de Git e Github do Gustavo Guanabara.
+![]()
 ***
 ### Lista numerada:
 1. Mudança feita no editor de texto remoto.
