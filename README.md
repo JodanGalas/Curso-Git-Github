@@ -1,6 +1,6 @@
 # Curso-Git-Github
 ## Repositório destinado ao curso de Git e Github do Gustavo Guanabara.
-### Clique [aqui](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) para acessar a playlist do curso.
+ ### > Clique [aqui](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) para acessar a playlist do curso.
 ***
 ### Lista numerada:
 1. Mudança feita no editor de texto remoto.
