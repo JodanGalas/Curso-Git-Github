@@ -1,7 +1,7 @@
 # A interface
 Para o desenvolvimento do produto(aplicação desktop) do Auxílio Emergencial Positivo foram utilizados diversos recursos de Python, sendo o principal deles o Tkinter (biblioteca de interface gráfica padrão). Com o Tkinter, foram produzidas três diferentes telas, simples e funcionais, as quais se interligam por meio de botões. Outros recursos foram utilizados para funções específicas (Pandas, Messagebox, Filedialog, Datetime, Xlrd).
 
-# Tela de início
+### Tela de início
 
 Logo ao abrir o aplicativo, é exibida a tela de início, a qual contém um banner com o título, e botões com as opções “Começar”, “Ajuda” e “Sair”.
 
@@ -9,11 +9,11 @@ Logo ao abrir o aplicativo, é exibida a tela de início, a qual contém um bann
 * Botão Ajuda: guia o funcionário para a tela de ajuda;
 * Botão Sair: fecha o aplicativo.
 
-# Tela de Ajuda
+### Tela de Ajuda
 
 Nesta tela são exibidas instruções em passo a passo, a fim de esclarecer qualquer dúvida que o funcionário que estiver utilizando a ferramenta possa ter. Para retornar para a Tela de Início, basta clicar no botão “Voltar”.
 
-# Tela de Verificação
+### Tela de Verificação
 Esta é a tela em que o processo de inclusão no Auxílio Emergencial Positivo ocorre. Os botões “Verificar”, “Limpar”, “Selecionar” e “Concluir”, juntamente com os RadioButtons de situações emergenciais e a TextBox de inserção de CPF, fornecem o suporte necessário para que o processo ocorra:
 
 * TextBox do CPF: área onde deve ser inserido o CPF da pessoa que solicitou a inclusão;
@@ -25,7 +25,7 @@ Esta é a tela em que o processo de inclusão no Auxílio Emergencial Positivo o
 
 Além destas funcionalidades, há o botão “Voltar”, que retorna para a Tela de Início.
 
-# Exibição do Histórico de Pagamentos e do Status
+### Exibição do Histórico de Pagamentos e do Status
 
 Feita a raspagem e análise de dados dos arquivos recebidos, é gerada uma Tabela única, a qual serve como uma Base de Dados para a aplicação. Através da consulta dessa tabela, os pagamentos a serem exibidos são selecionados e o status é definido.
 
